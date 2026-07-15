@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6f0046/t/v1/juan/0
 seq: 0
 front:
-  text: 毘耶娑問經翻譯之記菩薩方便攝化眾生必以大悲引邪從正毘耶娑仙即其人也為導群迷令識因果將諸異見至如來所歸命諮啟聽聞正法因其請說即以名經故因此部毘耶娑問魏尚書令儀同高公愍諸錯習示其歸則簡集能人善辭義者在宅上面出此經典正求法人沙門曇林婆羅門客瞿曇流支興和四年歲次壬戌月建在申朔次乙丑建初辛巳甲午畢功凡有一萬四千四百五十七字
-  hash: sha256:2dea58e2c6d863c2045eb54d0ef9e2b62d12d7e6ffe5996e023145b9cfc41519
+  text: 毗耶娑問經翻譯之記菩薩方便攝化衆生必以大悲引邪從正毗耶娑仙即其人也為導群迷令識因果將諸異見至如來所歸命咨啓聽聞正法因其請説即以名經故因此部毗耶娑問魏尚書令儀同高公愍諸錯習示其歸則簡集能人善辭義者在宅上面出此經典正求法人沙門曇林婆羅門客瞿曇流支興和四年歲次壬戌月建在申朔次乙丑建初辛巳甲午畢功凡有一萬四千四百五十七字
+  hash: sha256:a73056f82f3c0f78c223f4c7068ad769587aab8f33f9023ee8f5cc57ac761409
   markers:
   - {type: 序, offset: 0, content: 翻譯之記, id: KR6f0046_T_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T12/T12n0354.xml
     old_id: T12n0354
-hash: sha256:02f843ebd048f4a2593dff3810e957d681d9a3e8d4409d36264840e8353f68b4
+hash: sha256:ed7f1541051812a3d49aca3ce9a5b3b3b066a708fbbe773ad5b23859ecf2667a

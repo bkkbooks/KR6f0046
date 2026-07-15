@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0046/v1
 canonical_location: https://kanripo.org/bkk/KR6f0046/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 毘耶娑問經
   identifiers:
@@ -45,13 +45,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0046_000.yaml, hash: 'sha256:02f843ebd048f4a2593dff3810e957d681d9a3e8d4409d36264840e8353f68b4'}
-  - {seq: 1, filename: KR6f0046_001.yaml, hash: 'sha256:99ae8cd6522905c114992fd84fff88249b4025065f56446d40b53be9fceed1ea'}
-  - {seq: 2, filename: KR6f0046_002.yaml, hash: 'sha256:1bdee73d314329357ad005b7dc9306d5ac814ee0d46af1e96d2a3b6d54d09ea0'}
+  - {seq: 0, filename: KR6f0046_000.yaml, hash: 'sha256:ed7f1541051812a3d49aca3ce9a5b3b3b066a708fbbe773ad5b23859ecf2667a'}
+  - {seq: 1, filename: KR6f0046_001.yaml, hash: 'sha256:76efcb3a3866ec1fe7336a8fcede01cd73137d57a82da52d37be543f75263861'}
+  - {seq: 2, filename: KR6f0046_002.yaml, hash: 'sha256:6435a471f532b05e92cd4da62dee983cb474364cd06fee1297f4297ca746249c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0046_000.markers.yaml, hash: 'sha256:eb4b7bb6306dadab2e53e605a45f6e797d0993f436f5b2e1dd921bdf37968239'}
-  - {seq: 1, role: markers, filename: assets/KR6f0046_001.markers.yaml, hash: 'sha256:e8d1725ecb0e5c30797c23ea93df53c1b6f7262acfe3dac4593cd2ed8bbc4917'}
-  - {seq: 2, role: markers, filename: assets/KR6f0046_002.markers.yaml, hash: 'sha256:7f0e41830f76747c44f33b4c4ae83a9b774c782f96538487307ca8de7a65f7e5'}
+  - {seq: 0, role: markers, filename: assets/KR6f0046_000.markers.yaml, hash: 'sha256:e738ffb2b1f0776943489fb500821b84d96163dc1ca1aceac3e36c31ad8f43bf'}
+  - {seq: 1, role: markers, filename: assets/KR6f0046_001.markers.yaml, hash: 'sha256:2658fbf35df96effecf43c1f131630590f9ee63436bce9fc5f840c987f78bd3d'}
+  - {seq: 2, role: markers, filename: assets/KR6f0046_002.markers.yaml, hash: 'sha256:4ba4a51115c26912f18fc5676f2bd548c7673e739abe757ef288f485dd2cb7e4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -83,4 +83,7 @@ table_of_contents:
   label: 毘耶娑問經卷下
   type: juan
   level: 1
-hash: sha256:0e6fe0e58aabf7677babf0c96d3376fef0f9ab1eb752415057da6fed64c84030
+hash: sha256:69ddd0186bb82804fdba8ee2030b45fcac9d3dde29b2c5c5df3f6ce2d7530614
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
