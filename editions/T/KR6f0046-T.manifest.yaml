@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6f0046_001-T.yaml, hash: 'sha256:99ae8cd6522905c114992fd84fff88249b4025065f56446d40b53be9fceed1ea'}
   - {seq: 2, filename: KR6f0046_002-T.yaml, hash: 'sha256:1bdee73d314329357ad005b7dc9306d5ac814ee0d46af1e96d2a3b6d54d09ea0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0046_000-T.markers.yaml, hash: 'sha256:ac901c264b196d1506f83addb98a3981687f93c13147d6b8a55d0cd6c876e654'}
+  - {seq: 0, role: markers, filename: assets/KR6f0046_000-T.markers.yaml, hash: 'sha256:fc87440c13ee3b1d11fdddc121ee753164c8638d6f0290cf11f40153aee196a0'}
   - {seq: 1, role: markers, filename: assets/KR6f0046_001-T.markers.yaml, hash: 'sha256:5ff38767a651f0ade0aa335ead6d191eee9cccb85a9c1d8182979bd971bd8587'}
   - {seq: 2, role: markers, filename: assets/KR6f0046_002-T.markers.yaml, hash: 'sha256:a60080ddc2b5b4badafbcc4faefbae00fc4842b22513e87a88c33171143d6801'}
 table_of_contents:
@@ -57,4 +57,4 @@ table_of_contents:
   label: 毘耶娑問經卷下
   type: juan
   level: 1
-hash: sha256:e23a5e9fe691f1a50d75c5f4d4a1adb284c2ead1f18ff6fcfef48812a31e6807
+hash: sha256:82867597da9599cf1cc5e54c3211b87ad77efcf3d452c1dea80f47a3c1d04652
